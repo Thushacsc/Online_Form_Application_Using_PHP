@@ -1,0 +1,1 @@
+I did with your instructions but i didn't implement with OOP/MVC. I tried to do OOP/MVC but i couldn't do routing part. So i did rest of part with basic implementations.
